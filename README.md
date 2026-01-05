@@ -2,8 +2,7 @@
 Data Analyst | SQL Server | Python | Power BI
 
 I’m a Data Analyst with hands-on experience turning operational data into
-clear insights and actionable recommendations. I enjoy working end-to-end —
-from data modeling and SQL analysis to stakeholder-ready insights and dashboards.
+clear insights and actionable recommendations. I enjoy working end-to-end from data modeling and SQL analysis to stakeholder-ready insights and dashboards.
 
 🎯 Target roles: Data Analyst / Business Data Analyst / Operations Analyst  
 📍 Location: Ireland | Open to Remote / Hybrid
