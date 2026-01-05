@@ -2,7 +2,7 @@
 
 I’m a **Data Analyst** with a strong background as a **Business Analyst and Analyst Programmer**, experienced in turning complex data into clear, actionable insights that support real business decisions.
 
-I work comfortably across the full data lifecycle — from **data extraction and cleaning** to **analysis, visualisation, and reporting** — and I enjoy building solutions that improve accuracy, efficiency, and decision-making.
+I work comfortably across the full data lifecycle from **data extraction and cleaning** to **analysis, visualisation, and reporting** and I enjoy building solutions that improve accuracy, efficiency, and decision-making.
 
 ---
 
