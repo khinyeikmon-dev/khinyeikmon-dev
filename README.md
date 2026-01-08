@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Khin Yeik Mon
 
-I’m a **Data Analyst** with a strong background as a **Business & Systems Analyst**, experienced in turning complex data into clear, actionable insights that support real business decisions.
+I’m a **Data Analyst** with a strong background as a **Business Analyst & Analyst Programmer**, experienced in turning complex data into clear, actionable insights that support real business decisions.
 
 I work comfortably across the full data lifecycle from **data extraction and cleaning** to **analysis, visualisation, and reporting** and I enjoy building solutions that improve accuracy, efficiency, and decision-making.
 
